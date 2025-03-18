@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "305392183636",
+    "project_id": "nightmare-1666d",
+    "storage_bucket": "nightmare-1666d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305392183636:ios:f9a56caf0ce7daa8efc0c1",
+        "android_client_info": {
+          "package_name": "com.NaiPo.Nightmare"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScl0aCx4teCf5wHiK5PgZFLW4RhjfV8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
